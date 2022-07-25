@@ -1,4 +1,0 @@
-[33mreact-rollup-boilerplate:build[0m: cache hit, replaying output [2m43a87ba1e773a755[0m
-[33mreact-rollup-boilerplate:build: [0m$ rimraf dist && NODE_ENV=production BABEL_ENV=production rollup -c
-[33mreact-rollup-boilerplate:build: [0m[36m
-[33mreact-rollup-boilerplate:build: [0m[1msrc/index.ts[22m → [1mdist/index.js, dist/index.es.js[22m...[39m
